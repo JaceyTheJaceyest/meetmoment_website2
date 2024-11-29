@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: lato;
+}
+
+body {
+    width: auto;
+    font-family: arial;
+}
+
+.info {
+    display: flex;
+    gap: 40px;
+    margin: 0 auto;
+    margin-left: 300px;
+    width: 450px;
+}
+
+main {
+    background-image: url("background.jpg");
+    background-size: cover;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.about {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    margin-left: 300px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.dental {
+    padding-bottom: 30px;
+    font-size: 50px;
+    margin-left: 300px;
+    font-weight: 800;
+}
+
+p {
+    padding-bottom: 30px;
+    font-size: 15px;
+    word-spacing: 2px;
+    font-weight: 300;
+}
+
+.freepik {
+    font-size: 16px;
+    padding-bottom: 80px;
+    margin-left: 300px;
+}
+
+a:hover {
+    color: black;
+}
+
+a {
+    color: black;
+}
